@@ -1,4 +1,4 @@
-# cnn-fruits-classification
+# CNN Fruits Classification
 
 Homework for Knowledge Discovery Course of MSc in Data Science for Management (UniCT).
 
